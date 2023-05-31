@@ -19,7 +19,7 @@ The MNIST dataset contains grayscale images of handwritten digits from 0 to 9. E
 1. Clone this repository:
 
 ```shell
-git clone https://github.com/your-username/mnist-cnn.git
+git clone https://github.com/your-username/Mnist-CNN-Model.git
 cd mnist-cnn
 ```
 
@@ -29,17 +29,6 @@ cd mnist-cnn
 pip install -r requirements.txt
 ```
 
-3. Run the training script:
-
-```shell
-python train.py
-```
-
-4. Evaluate the trained model:
-
-```shell
-python evaluate.py
-```
 
 ## Model Architecture
 
